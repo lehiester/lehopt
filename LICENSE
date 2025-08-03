@@ -1,0 +1,20 @@
+lehopt - Copyright (c) Luke Hiester
+
+WARNING: The Repository contains materials which are not part of lehopt and
+are distributed under separate license terms, as described below.
+
+The "Repository" refers to the Git repository which has this LICENSE file
+contained in its root directory and is hosted at the following URL:
+https://github.com/lehiester/lehopt
+
+The "Software" (or "lehopt") includes all contents of the Repository except
+as otherwise noted here. Contents of the following directories shall not be
+considered part of the Software unless they bear a copyright notice
+indicating otherwise:
+- deps
+- models
+
+The Software, subject to the exclusions above, is licensed under either the
+MIT license (LICENSE-MIT) or the Apache License, Version 2.0
+(LICENSE-APACHE), at your option. Copies of these licenses are provided in
+the root directory of the Repository.
