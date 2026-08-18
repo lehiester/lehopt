@@ -152,6 +152,6 @@ csn *cs_ndone (csn *N, cs *C, void *w, void *x, csi ok) ;
 #define CS_CSC(A) (A && (A->nz == -1))
 #define CS_TRIPLET(A) (A && (A->nz >= 0))
 
-const csn CS_LU_RANK_DEFICIENT;
+extern const csn CS_LU_RANK_DEFICIENT;
 
 #endif
